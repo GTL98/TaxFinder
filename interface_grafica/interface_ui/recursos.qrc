@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icones">
+    <file>icones/botao_abrir.png</file>
+    <file>icones/botao_salvar.png</file>
+  </qresource>
+</RCC>
